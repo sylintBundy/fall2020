@@ -5,7 +5,7 @@ Repository for the Fall 2020 Semester
 This assignment makes use of keyboard and mouse button input. It plays a silent piano that can change between light and dark mode.
 
 #### How to Use
-* Keys S, E, D, R, F, G, Y, H, U, J, I, K, L activate its corresponding piano key.  
+* Keys S, E, D, R, F, G, Y, H, U, J, I, K, L activate their corresponding piano key.  
 * Click anywhere to alternate between light and dark mode.
 
 ### **Assignment 7**  
